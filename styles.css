@@ -1,0 +1,58 @@
+p {
+    color: #FF8000;
+}
+h1{
+    color: green;
+}
+h2 {
+    color: rgb(0, 225, 255);
+}
+h3 {
+    color: red;
+}
+
+td {
+    width: 200px;
+    height: 100px;
+}
+tr{
+    width: 200px;
+    height: 300px;
+}
+p {
+    text-align: center;
+}
+.ssilki{
+    text-align: center;
+}
+.ssilki a{
+    color: rgb(225, 0, 255);
+}
+.day2 {
+    text-align: center;
+    padding-left: 30px;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    font-size: 30px;
+    
+}
+.day2 a {
+    color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

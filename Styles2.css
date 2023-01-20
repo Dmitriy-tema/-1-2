@@ -1,0 +1,152 @@
+.txt h2 {
+    font-weight: normal;
+}
+
+.txt p {
+    font-weight: bold;
+}
+
+.tab1 table {
+    width: 500px;
+    height: 300px;
+}
+
+.tab1 td {
+    font-weight: bold;
+    text-align: center;
+}
+
+.tab1 th {
+    font-weight: normal;
+}
+
+.kursiv p {
+    font-style: italic;
+}
+
+h2 {
+    font-style: italic;
+}
+
+.razmert {
+    padding-top: 100px;
+}
+
+.razmer p {
+    font-size: 30px;
+}
+
+.razmert h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+.razmert h2 {
+    font-size: 40px;
+    font-style: normal;
+}
+
+.razmert p {
+    font-size: 30px;
+}
+
+.srift p {
+    font-family: Arial;
+}
+
+.srift2 p {
+    font-family: "Comic Sans MS";
+}
+
+.dlin_txt p {
+    font-size: 30px;
+    line-height: 20px;
+    text-align: justify;
+    width: 400px;
+    padding-left: 30px;
+
+}
+
+.line p {
+    font-size: 30px;
+    line-height: 15px;
+    text-align: justify;
+    width: 400px;
+}
+
+.sokrasenia p {
+    /* font-family: "Times New Roman"; 
+	font-size: 13px;
+	line-height: 20px; */
+    font: 16px/50px "Times New Roman";
+}
+
+.sokrasenia2 p {
+    /* 	
+    width: 300px;
+	font-family: Arial;
+	color: red;
+	font-size: 40px;
+	font-weight: bold;  
+    */
+
+    font: 40px/300px Arial bold;
+    color: red;
+}
+
+.sokrasenia3 p {
+/*     
+        font-family: Arial;
+        font-size: 40px;
+        font-weight: bold;
+        text-indent: 50px;
+        font-style: italic;
+        line-height: 60px;
+    */
+    font: Arial 40px/60px/50px bold italic;
+}
+.red_stroka p {
+	text-indent: 50px;
+	text-align: justify;
+	width: 400px;
+    padding-bottom: 50px;
+}
+
+.color p {
+	text-decoration: underline;
+}
+
+.color2 p {
+	text-decoration: overline;
+}
+
+.color3 p {
+	text-decoration: line-through;
+}
+
+.color4 a {
+	text-decoration: none;
+}
+
+.zadanie p1 {
+    text-decoration: underline;
+    color: red;
+}
+.zadanie p2 {
+    text-decoration: overline;
+    color: rgb(0, 255, 55);
+}
+.zadanie p3 {
+    text-decoration: line-through;
+    color: rgb(0, 0, 0);
+}
+.zadanie p4 {
+    text-decoration: none;
+    color: red;
+}
+
+
+
+
+
+
